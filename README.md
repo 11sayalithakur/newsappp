@@ -5,7 +5,7 @@ after downloading zip file run following command on terminal
 2. npm start
 
 # screenshot
-![Thumbnail1](Screenshot from 2020-07-22 11-11-26.png)
+![Thumbnail2](1.png)
 
 
 ## Authors
